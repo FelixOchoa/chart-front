@@ -1,0 +1,22 @@
+.chartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.chartContainer span {
+  margin-top: 30px;
+  font-weight: 500;
+}
+.chartsStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 30px;
+  width: 60%;
+}
